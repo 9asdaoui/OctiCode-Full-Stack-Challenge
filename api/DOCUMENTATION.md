@@ -103,7 +103,3 @@ Design choices / notes
 If you want, I can next:
 - Convert the persistence to SQLite (small step-up from JSON) and update the service and tests.
 - Or keep it as-is and add one or two more tests and some small integration examples.
-
----
-
-If anything is unclear, tell me which file you'd like explained in more depth or what you want simplified further.
