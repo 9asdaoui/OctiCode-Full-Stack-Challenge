@@ -3,3 +3,4 @@ noded_modules
 /dist
 .env
 data/db.json
+DOCUMENTATION.md
